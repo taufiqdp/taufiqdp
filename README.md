@@ -1,4 +1,4 @@
-### I like coding
+I like coding
 
 [![An image of @taufiqdp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taufiqdp)](https://holopin.io/@taufiqdp)
 <!--
