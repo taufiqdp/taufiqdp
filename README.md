@@ -1,10 +1,4 @@
 ## I like coding
-[🤗](https://huggingface.co/taufiqdp)
-<!--
-**taufiqdp/taufiqdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning
-
--->
+### 🎧
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=taufiqdp&bg_color=000000&header_style=normal_stats)](https://www.last.fm/user/taufiqdp)
