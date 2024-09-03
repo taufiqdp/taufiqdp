@@ -10,7 +10,7 @@
 
 [![Github](https://img.shields.io/github/followers/taufiqdp?label=Follow&style=social)](https://github.com/taufiqdp)
 
-Hello I am Taufiq 👋
+I am invincible in these sunglasses 😎
 
 
 ### 🖥 Skills
