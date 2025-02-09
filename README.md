@@ -14,5 +14,4 @@ I am invincible in these sunglasses 😎
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufiqdp&show_icons=true&locale=en&layout=compact" alt="taufiqdp" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqdp&" alt="taufiqdp" />
 </div>
