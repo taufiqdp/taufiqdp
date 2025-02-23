@@ -11,7 +11,7 @@
 ## Stats
 
 <p align="left" width="100%">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqdp&layout=compact&theme=vision-friendly-dark" alt="taufiqdp" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqdp&layout=compact&theme=dracula" alt="taufiqdp" />
 </p>
 
 </samp>
