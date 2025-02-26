@@ -2,7 +2,7 @@
   
 # Taufiq Dwi Purnomo
 
-[linkedin](https://www.linkedin.com/in/taufiqdp/) • [huggingface](https://huggingface.co/taufiqdp) • [blog](https://taufiqdp.com)
+[linkedin](https://www.linkedin.com/in/taufiqdp/) • [huggingface](https://huggingface.co/taufiqdp) • [blog](https://taufiqdp.com) • [others](https://social.taufiqdp.com/)
   
 <img src="https://therestissilencesite.wordpress.com/wp-content/uploads/2018/05/phantomthread2-e1525252881923.jpg">
 
