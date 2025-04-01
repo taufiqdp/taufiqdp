@@ -1,7 +1,7 @@
 <samp>
   
 # Taufiq Dwi Purnomo
-![](https://komarev.com/ghpvc/?username=taufiqdp)
+![](https://komarev.com/ghpvc/?username=taufiqdp&style=for-the-badge)
 
 [linkedin](https://www.linkedin.com/in/taufiqdp/) • [huggingface](https://huggingface.co/taufiqdp) • [blog](https://taufiqdp.com) • [others](https://social.taufiqdp.com/)
   
