@@ -7,6 +7,6 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqdp&layout=compact&theme=dracula" alt="taufiqdp" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqdp&layout=compact" alt="taufiqdp" />
 
 </samp>
